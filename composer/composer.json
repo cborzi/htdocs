@@ -1,0 +1,15 @@
+{
+    "name": "cborzi/composer",
+    "description": "Curso PHP7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Carlos",
+            "email": "carlosborzi@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}
