@@ -10,7 +10,7 @@ $cad->SetNome("Carlos");
 $cad->SetEmail("Carlos@yahoo.com.br");
 $cad->SetSenha("987654321");
 
-//echo $cad;
+echo $cad;
 
 $cad->registrarVenda();
 
